@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { FaMapMarkerAlt, FaClock, FaPhone, FaStar } from 'react-icons/fa';
 
 export default function Home() {
@@ -53,15 +52,15 @@ export default function Home() {
             
             <div className="space-y-6 max-h-80 overflow-y-auto pr-2">
               <div className="border-b border-gray-200 pb-4">
-                <p className="text-gray-700 italic">"Un loc liniștit unde să servești un pahar de vin timp în care cel mic să se joace în natură. Perfect pentru un weekend departe de aglomerația orașului!"</p>
+                <p className="text-gray-700 italic">&ldquo;Un loc liniștit unde să servești un pahar de vin timp în care cel mic să se joace în natură. Perfect pentru un weekend departe de aglomerația orașului!&rdquo;</p>
                 <p className="text-amber-800 mt-2">— Iulia Cosmina L.</p>
               </div>
               <div className="border-b border-gray-200 pb-4">
-                <p className="text-gray-700 italic">"Evadează într-o fermecătoare cramă de țară înconjurată de podgorii. Experimentează bucuria de a degusta vinuri excepționale, în timp ce te bucuri de priveliști uimitoare."</p>
+                <p className="text-gray-700 italic">&ldquo;Evadează într-o fermecătoare cramă de țară înconjurată de podgorii. Experimentează bucuria de a degusta vinuri excepționale, în timp ce te bucuri de priveliști uimitoare.&rdquo;</p>
                 <p className="text-amber-800 mt-2">— Andrei Smidu</p>
               </div>
               <div className="border-b border-gray-200 pb-4">
-                <p className="text-gray-700 italic">"Experimentează o cramă de țară care întâmpină întreaga familie. Bucură-te de vinuri delicioase în mijlocul podgoriilor frumoase în timp ce copiii se distrează jucându-se."</p>
+                <p className="text-gray-700 italic">&ldquo;Experimentează o cramă de țară care întâmpină întreaga familie. Bucură-te de vinuri delicioase în mijlocul podgoriilor frumoase în timp ce copiii se distrează jucându-se.&rdquo;</p>
                 <p className="text-amber-800 mt-2">— Adeline Soare</p>
               </div>
             </div>
