@@ -70,6 +70,7 @@ export default function Home() {
         <footer className="text-center mt-16">
           <p className="text-xl font-semibold text-amber-800 mb-2">Deschiderea oficială în curând</p>
           <p className="text-gray-700">Vă mulțumim pentru interes și abia așteptăm să vă întâmpinăm la Domeniile Sia!</p>
+          <p className="text-sm text-amber-700 mt-4">Powered by <a href="https://frontforgeweb.com/" className="underline hover:text-amber-900 transition-colors" target="_blank" rel="noopener noreferrer">FrontForge Solutions SRL</a></p>
         </footer>
       </div>
     </div>
